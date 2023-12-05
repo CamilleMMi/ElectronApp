@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Fichiers de configuration
+.env
+
+# Fichiers de build
+/build
+/dist
+/out
+/.next
+
+# Fichiers spécifiques éditeur
+.vscode/
+
+# Fichiers d'éditeur de texte
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.log
+*.bak
+[Tt]humbs.db
+[Dd]esktop.ini
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.json
+*.sqlite3-journal
+
+# Fichiers système
+.DS_Store
+Thumbs.db
