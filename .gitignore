@@ -12,6 +12,7 @@ node_modules/
 
 # Fichiers spécifiques éditeur
 .vscode/
+.eslintrc.cjs
 
 # Fichiers d'éditeur de texte
 *.suo
